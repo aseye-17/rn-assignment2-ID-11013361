@@ -15,3 +15,4 @@ Student ID
 Screenshot
 
 
+![Screenshot 2024-05-27 215818](https://github.com/aseye-17/rn-assignment2-ID-11013361/assets/151396533/d26716e4-831a-4482-9ada-efb890e73327)
